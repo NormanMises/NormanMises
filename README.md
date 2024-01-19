@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Yan Hongfei.
 
-[![normanmises@gmail.com](https://img.shields.io/badge/email-normanmises%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=%23DC4234&labelColor=%23EFEFEF)][mailto:loveress01@outlook.com]
+[![normanmises@gmail.com](https://img.shields.io/badge/email-normanmises%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=%23DC4234&labelColor=%23EFEFEF)][mailto:normanmises@gmail.com]
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NormanMises&locale=en)
 
