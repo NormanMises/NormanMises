@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Yan Hongfei.
+# 👋 Hi there, I'm Norman Mises.
 
 [![normanmises@gmail.com](https://img.shields.io/badge/email-normanmises%40gmail.com-blue?style=flat-square&logo=Gmail&logoColor=%23DC4234&labelColor=%23EFEFEF)][email]
 
